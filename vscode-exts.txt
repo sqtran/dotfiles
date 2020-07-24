@@ -1,0 +1,4 @@
+golang.go
+redhat.java
+redhat.vscode-quarkus
+vscjava.vscode-java-debug
